@@ -1,0 +1,28 @@
+name: ROAMEC
+favicon: null
+layout_spectrum: 0.9716403388883919
+typography_spectrum: 0.8096986366435885
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.020965911680832505
+  lightness: 0.23210300342179835
+  saturation: 0.7947514387778938
+  rhythmicContrast: 0.20385915227234364
+purpose: []
