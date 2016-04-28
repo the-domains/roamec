@@ -1,7 +1,7 @@
 name: ROAMEC
 favicon: null
 layout_spectrum: 0.9716403388883919
-typography_spectrum: 0.8096986366435885
+typography_spectrum: 0
 title: Ensayos de no pensar
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.020965911680832505
-  lightness: 0.23210300342179835
-  saturation: 0.7947514387778938
-  rhythmicContrast: 0.20385915227234364
+    - '#030303'
+    - '#221c02'
+    - '#44300c'
+    - '#514523'
+    - '#7a6447'
+  brandStrength: 0.5
+  lightness: 0.3125
+  saturation: 0.625
+  rhythmicContrast: 0.5
 purpose: []
