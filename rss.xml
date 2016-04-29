@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Ensayos de no pensar]]></title>
-        <description><![CDATA[Ensayos de no pensar]]></description>
+        <title><![CDATA[ENSAYOS DE NO PENSAR]]></title>
+        <description><![CDATA[ENSAYOS DE NO PENSAR]]></description>
         <link>https://thegrid.ai/roamec/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Apr 2016 02:46:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2016 02:54:41 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/roamec/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c31e8815-cbb4-4fe8-acff-c791de16dfb4.jpg">]]></description>
+            <link>https://thegrid.ai/roamec/5b79cbd3-8944-43f1-80e5-8c9225d3e3a6/index.html</link>
+            <guid isPermaLink="false">5b79cbd3-8944-43f1-80e5-8c9225d3e3a6</guid>
+            <pubDate>Fri, 29 Apr 2016 02:53:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Ensayo #1 by ROAMEC]]></title>
             <description><![CDATA[<article><h1>Ensayo #1 by ROAMEC</h1><p>Acid jazz fusion / free Improvisation David Echeverria (Drums) Luis Siguenza (Sax) Jorge Rojas (Bass) Francisco VIvanco (Guitar, Effx) Grabado en el COM USFQ</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/721fda476741dc1f0a992bdb2b0c42ecfc7c4845.jpg"></article>]]></description>
