@@ -1,16 +1,18 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://soundcloud.com/roamec/1-ensayo1'
+inLanguage: null
+keywords: []
+description: 'Acid jazz fusion / free Improvisation David Echeverria (Drums) Luis Siguenza (Sax) Jorge Rojas (Bass) Francisco VIvanco (Guitar, Effx) Grabado en el COM USFQ'
+datePublished: '2016-04-29T20:56:11.195Z'
+dateModified: '2016-04-29T19:55:57.685Z'
 author:
   - name: ROAMEC
     url: 'http://soundcloud.com/roamec'
     avatar: {}
 related: []
-publisher:
-  url: 'http://soundcloud.com'
-  name: SoundCloud
-  favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
-  domain: soundcloud.com
-keywords: []
-description: 'Acid jazz fusion / free Improvisation David Echeverria (Drums) Luis Siguenza (Sax) Jorge Rojas (Bass) Francisco VIvanco (Guitar, Effx) Grabado en el COM USFQ'
 app_links:
   - type: ios
     namespace: ai
@@ -48,16 +50,16 @@ app_links:
     package: '336353151'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://soundcloud.com/roamec/1-ensayo1'
 title: 'Ensayo #1 by ROAMEC'
-datePublished: '2016-04-29T02:46:45.198Z'
-dateModified: '2016-04-29T02:46:02.591Z'
-starred: false
 sourcePath: _posts/2016-04-29-ensayo-1-by-roamec.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: SoundCloud
+  domain: soundcloud.com
+  url: 'http://soundcloud.com'
+  favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
+starred: false
 _type: AudioObject
 _context: 'http://schema.org'
 
