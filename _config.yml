@@ -1,7 +1,7 @@
 name: ROAMEC
 favicon: null
-layout_spectrum: 0.9716403388883919
-typography_spectrum: 0
+layout_spectrum: 0.89816
+typography_spectrum: 0.0384
 title: ENSAYOS DE NO PENSAR
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#44300c'
     - '#514523'
     - '#7a6447'
-  brandStrength: 0.5
+  brandStrength: 0.6875
   lightness: 0.375
-  saturation: 0.625
-  rhythmicContrast: 0.5
+  saturation: 0.4375
+  rhythmicContrast: 0.25
 purpose: []
