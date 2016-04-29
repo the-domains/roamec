@@ -6,8 +6,8 @@ isBasedOnUrl: 'https://soundcloud.com/roamec/1-ensayo1'
 inLanguage: null
 keywords: []
 description: 'Acid jazz fusion / free Improvisation David Echeverria (Drums) Luis Siguenza (Sax) Jorge Rojas (Bass) Francisco VIvanco (Guitar, Effx) Grabado en el COM USFQ'
-datePublished: '2016-04-29T20:56:11.195Z'
-dateModified: '2016-04-29T19:55:57.685Z'
+datePublished: '2016-04-29T21:09:11.569Z'
+dateModified: '2016-04-29T21:06:06.671Z'
 author:
   - name: ROAMEC
     url: 'http://soundcloud.com/roamec'
