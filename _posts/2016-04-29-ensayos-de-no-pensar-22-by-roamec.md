@@ -6,8 +6,8 @@ isBasedOnUrl: 'https://soundcloud.com/roamec/ensayos-de-no-pensar-2-2'
 inLanguage: null
 keywords: []
 description: 'Conversaciones en otro idioma Agosto 7, 2013 o por ahí. David Echeverría (bateria), Francisco Vivanco (guitarra)'
-datePublished: '2016-04-29T03:01:04.277Z'
-dateModified: '2016-04-29T02:34:30.433Z'
+datePublished: '2016-04-30T16:27:17.810Z'
+dateModified: '2016-04-29T20:59:16.356Z'
 author:
   - name: ROAMEC
     url: 'http://soundcloud.com/roamec'
@@ -51,6 +51,8 @@ app_links:
     namespace: google
     type: ios
 title: Ensayos de no pensar 2.2 by ROAMEC
+sourcePath: _posts/2016-04-29-ensayos-de-no-pensar-22-by-roamec.md
+published: true
 authors: []
 publisher:
   name: SoundCloud
@@ -58,8 +60,6 @@ publisher:
   url: 'http://soundcloud.com'
   favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
 starred: false
-sourcePath: _posts/2016-04-29-ensayos-de-no-pensar-22-by-roamec.md
-published: true
 _type: AudioObject
 _context: 'http://schema.org'
 
