@@ -6,8 +6,8 @@ isBasedOnUrl: 'https://soundcloud.com/improtechted/iumipach'
 inLanguage: null
 keywords: []
 description: 'Proyecto Experimental, MImetismo - Video Músicos: Emilio Cordero (Sonidos y Efectos), Luis Castro (guitarra), David Guerrero (Voz) Ingenieros Grabación: Francisco Vivanco'
-datePublished: '2016-04-29T02:40:20.922Z'
-dateModified: '2016-04-29T02:40:20.424Z'
+datePublished: '2016-04-30T16:27:33.802Z'
+dateModified: '2016-04-29T03:01:33.121Z'
 author:
   - name: IMPROTECHTED
     url: 'http://soundcloud.com/improtechted'
@@ -51,6 +51,8 @@ app_links:
     namespace: google
     type: ios
 title: 'ROAMEC - IUMIPACH [48K] by IMPROTECHTED'
+sourcePath: _posts/2016-04-29-roamec-iumipach-48k-by-improtechted.md
+published: true
 authors: []
 publisher:
   name: SoundCloud
@@ -58,8 +60,6 @@ publisher:
   url: 'http://soundcloud.com'
   favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
 starred: false
-sourcePath: _posts/2016-04-29-roamec-iumipach-48k-by-improtechted.md
-published: true
 _type: AudioObject
 _context: 'http://schema.org'
 
