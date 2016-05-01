@@ -2,14 +2,16 @@
 inFeed: true
 hasPage: false
 inNav: false
-isBasedOnUrl: null
+isBasedOnUrl: ''
 inLanguage: null
 keywords: []
 description: ENSAYOS DE NO PENSAR
-datePublished: '2016-05-01T20:31:10.076Z'
-dateModified: '2016-05-01T20:28:28.826Z'
+datePublished: '2016-05-01T20:46:34.940Z'
+dateModified: '2016-05-01T20:35:42.586Z'
 title: REHEARSALS OF ABSENT MIND
-author: []
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-05-01-rehearsals-of-absent-mind.md
 published: true
 authors: []
