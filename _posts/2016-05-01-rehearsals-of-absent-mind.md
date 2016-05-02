@@ -6,8 +6,8 @@ isBasedOnUrl: ''
 inLanguage: null
 keywords: []
 description: ENSAYOS DE NO PENSAR
-datePublished: '2016-05-01T20:46:34.940Z'
-dateModified: '2016-05-01T20:35:42.586Z'
+datePublished: '2016-05-02T02:28:56.317Z'
+dateModified: '2016-05-02T02:28:38.127Z'
 title: REHEARSALS OF ABSENT MIND
 author:
   - name: ''
@@ -24,7 +24,8 @@ starred: true
 _type: Blurb
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0f6fc978-8316-4674-ba09-164b541eb0b7.jpg)
+
 # REHEARSALS OF ABSENT MIND
 
 ENSAYOS DE NO PENSAR
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/387f64ab-7728-4219-b331-939c5bdc354e.jpg)
