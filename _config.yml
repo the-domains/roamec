@@ -1,7 +1,7 @@
-name: ROAMmusic
+name: roamusic
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.02171
+layout_spectrum: 0.74707
+typography_spectrum: 0.0334
 title: 'Rehearsals of Absent Mind '
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#030303'
-    - '#221c02'
-    - '#44300c'
-    - '#514523'
-    - '#7a6447'
-  brandStrength: 0.5
-  lightness: 0.625
-  saturation: 0.1875
-  rhythmicContrast: 0.25
+    - '#ffffff'
+    - '#252422'
+    - '#4f4e4c'
+    - '#787775'
+    - '#d0cecf'
+  brandStrength: 0.75
+  lightness: 0.4375
+  saturation: 0
+  rhythmicContrast: 0.75
 purpose: []
