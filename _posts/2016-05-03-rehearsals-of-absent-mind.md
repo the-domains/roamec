@@ -2,16 +2,14 @@
 inFeed: true
 hasPage: false
 inNav: false
-isBasedOnUrl: ''
+isBasedOnUrl: null
 inLanguage: null
 keywords: []
-description: 'Inverted negative of family portrait '
-datePublished: '2016-05-03T20:42:54.105Z'
-dateModified: '2016-05-03T20:39:05.702Z'
+description: ''
+datePublished: '2016-05-03T20:53:40.256Z'
+dateModified: '2016-05-03T20:52:19.395Z'
 title: REHEARSALS OF ABSENT MIND
-author:
-  - name: David S. Guerrero
-    url: ''
+author: []
 authors: []
 publisher:
   name: null
@@ -25,6 +23,3 @@ _type: Blurb
 
 ---
 # REHEARSALS OF ABSENT MIND
-
-## ENSAYOS DE NO PENSAR
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/758ae4d5-04e4-4272-b809-0bc459e9746d.jpg)
