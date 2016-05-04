@@ -6,8 +6,8 @@ isBasedOnUrl: ''
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-04T00:34:36.750Z'
-dateModified: '2016-05-03T22:19:21.906Z'
+datePublished: '2016-05-04T00:56:05.464Z'
+dateModified: '2016-05-04T00:34:47.074Z'
 title: REHEARSALS OF ABSENT MIND
 author:
   - name: ''
