@@ -1,6 +1,6 @@
 name: ROAM
 favicon: null
-layout_spectrum: 0.74707
+layout_spectrum: 1
 typography_spectrum: 0.04008
 title: ROAM
 cta:
@@ -22,8 +22,8 @@ color:
     - '#929292'
     - '#676767'
     - '#cbcbcd'
-  brandStrength: 0.8125
-  lightness: 0.5
+  brandStrength: 0.625
+  lightness: 0.25
   saturation: 0.5
-  rhythmicContrast: 0.5
+  rhythmicContrast: 0.25
 purpose: []
